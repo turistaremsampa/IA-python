@@ -4,7 +4,7 @@ Este projeto utiliza reconhecimento de fala para interagir com o modelo GPT-3 da
 
 ## Pré-requisitos
 
-- Python 3.x 12
+- Python 3.12.7
 - Biblioteca `Flask`
 - Biblioteca `SpeechRecognition`
 - Biblioteca `OpenAI`
