@@ -15,7 +15,4 @@ Este projeto utiliza reconhecimento de fala para interagir com o modelo GPT-3 da
 
 Clone o repositório e instale as dependências:
 
-```bash
-git clone >
-cd <>
-pip install -r requirements.txt
+
